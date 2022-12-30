@@ -13,7 +13,7 @@ Create the project directory Airline
 C:\> mkdir projects\Airline
 C:\> cd projects\Airline
 ```
-
+Create the Virtual Environment to run Python and Django
 ```bash
 C:\> python -m venv venv
 C:\> venv\Scripts\activate.bat
